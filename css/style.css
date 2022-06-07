@@ -1,0 +1,7 @@
+/*coding for the portal navigation start*/
+.portalWrapper{
+	display:grid;
+	height:100px;
+	background-color:red !important;
+}
+/*coding for the portal navigation ended*/
